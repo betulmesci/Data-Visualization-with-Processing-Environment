@@ -1,0 +1,9 @@
+Data is taken from https://stats.oecd.org/
+Description of columns in data.tsv:
+1. Name of the country
+2. x coordinates of the country
+3. y coordinates of the country
+4. Current Account % of GDP
+5. Consumer Prices - Annual Inflation
+6. Monthly Unemployment Rate
+for the second quarter of 2022. 
